@@ -1,0 +1,72 @@
+@charset "utf-g";
+div{
+    width: 200px;
+    height: 200px;
+
+}
+.box1 {
+   
+    background-color: red;
+    float: left;
+}
+.box1:hover{
+    background-color: yellow;
+    padding: 5px;
+
+}
+.box2 {
+    
+    background-color: #457745;
+    float: left;
+}
+.box3 {
+    
+    background-color: rgb(22, 50, 60);
+    float: left;
+    
+}
+.box4 {
+    
+    background-color: mintcream;
+    clear: left;
+    float: left;
+}
+.box5 {
+    
+    background-color: chocolate;
+    float: left;
+
+}
+.box6 {
+    
+    background-color: pink;
+    float: left;
+
+}
+.box7 {
+    
+    background-color: blue;
+    clear: left;
+    float: left;
+    z-index:30;
+
+}
+.box8 {
+    
+    background-color: blueviolet;
+    float: left;
+    position: absolute;
+    margin-top: 400;
+    
+  
+
+}
+.box9 {
+    
+    background-color: gray;
+    float: left;
+    position: absolute;
+    margin-top: 400;
+    
+
+}
