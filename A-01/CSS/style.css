@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: white;
+    
+}
+#wrap {
+    width: 1200px;
+    background-color: #999;
+    margin: 0 auto;
+    
+}
+.logo {
+    width: 250px;
+    height: 100px;
+    background-color: #777;
+    float: left;
+    line-height: 100px;
+}
+.nav {
+    width: 950px;
+    height: 100px;
+    background-color: #888;
+    float: left;
+    line-height: 100px;
+}
+#content {
+    width: 1200px;
+    height: 500px;
+    background-color: #666;
+    line-height: 400px;
+}
+.gonzi {
+    width: 400px;
+    height: 200px;
+    background-color: #555;
+    float: left;
+    line-height: 200px;
+}
+.gal {
+    width: 400px;
+    height: 200px;
+    background-color: #444;
+    float: left;
+    line-height: 200px;
+}
+.pop {
+    width: 400px;
+    height: 200px;
+    background-color: #444;
+    float: left;
+    line-height: 200px;
+}
+.logo2 {
+    background-color: #444;
+    height: 100px;
+    width: 200px;
+    float: left;
+    line-height: 100px;
+}
+.cp {
+    background-color: #333;
+    height: 100px;
+    width: 800px;
+    float: left;
+    line-height: 100px;
+}
+.sns {
+    background-color: #222;
+    height: 100px;
+    width: 200px;
+    float: left;
+    line-height: 100px;
+}
+
+
